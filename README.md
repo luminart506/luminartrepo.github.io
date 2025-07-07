@@ -1,4 +1,4 @@
-# <a href="repository.luminartrepo.github.io-0.0.4.zip">DOWNLOAD DO REPOSITÓRIO</a>
+# <a href="repository.NAME.zip">DOWNLOADDO REPOSITÓRIO</a>
 
 Instruções para a adição no gestor:
 
@@ -7,9 +7,9 @@ Instruções para a adição no gestor:
   <ul>
     <li>Ir para o Kodi gestor de ficheiros.</li>
     <li>Clicar em "Adicionar fonte"</li>
-    <li>O endereço para a fonte é <code>https://tinyurl.com/lumi-oficial</code> (Dar o nome de "lumi-oficial").</li>
+    <li>O endereço para a fonte é <code>https://LINK_DA_FONTE</code> (Dar o nome de "repository.NAME").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "lumi-oficial", e instalar <a href="repository.luminartrepo.github.io-0.0.4.zip">repository.luminartrepo.github.io-0.0.4.zip</a>.</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "repository.NAME", e instalar <a href="repository.NAME.zip">repository.NAME.zip</a>.</li>
     -
     <li>Repositório Instalado!</li>
     
@@ -19,6 +19,4 @@ Instruções para a adição no gestor:
                                        
 
 </p>
-
-
 
