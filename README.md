@@ -1,4 +1,4 @@
-# <a href="repository.luminartrepo.github.io-0.0.4.zip">DOWNLOADDO REPOSITÓRIO</a>
+# <a href="repository.luminartrepo.github.io-0.0.4.zip">DOWNLOAD DO REPOSITÓRIO</a>
 
 Instruções para a adição no gestor:
 
